@@ -6,7 +6,7 @@ This repo was forked for clean install of Materialize SCSS. Thanks to [@poetric]
 2. type:
 ```
 mkdir packages && cd packages
-git clone git clone --depth=1 https://github.com/ojczeo/meteor-materialize-scss
+git clone --depth=1 https://github.com/ojczeo/meteor-materialize-scss
 cd ..
 meteor add ojczeo:meteor-materialize-scss
 ```
