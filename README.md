@@ -1,5 +1,5 @@
 # Quick info
-This repo was forked for clean install of Materialize SCSS. Thanks to @poetric and his repo [GitHub](https://github.com/poetic/meteor-materialize-scss).
+This repo was forked for clean install of Materialize SCSS. Thanks to [@poetric](https://github.com/poetic) and his repo [meteor-materialize-scss](https://github.com/poetic/meteor-materialize-scss).
 
 To install:
 1. Open terminal and go to your project folder
@@ -7,7 +7,7 @@ To install:
 ```
 mkdir packages && cd packages
 git clone git clone --depth=1 https://github.com/ojczeo/meteor-materialize-scss
-mkdir ..
+cd ..
 meteor add ojczeo:meteor-materialize-scss
 ```
 ===========
