@@ -1,7 +1,7 @@
 // package metadata file for Meteor.js
 
 Package.describe({
-  name: 'ojczeo:meteor-materialize-scss',  // http://atmospherejs.com/materialize/materialize
+  name: 'poetic:materialize-scss',  // http://atmospherejs.com/materialize/materialize
   summary: 'Materialize (official): A modern responsive front-end framework based on Material Design',
   version: '1.97.5_1',
   git: 'https://github.com/ojczeo/meteor-materialize-scss'
